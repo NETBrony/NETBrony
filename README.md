@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-My names Natchanon Chumchob, or you can call me Net/Luis/lu.
+My names **Natchanon Chumchob**, or you can call me **Net/Luis/lu**.
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/streetjourney68)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@SJPhoto68)
